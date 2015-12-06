@@ -1,0 +1,17 @@
+zad1
+a)
+Gdy ¿adna z metod nie posiada deklaracji virtual wywo³ane zostaj¹ funkcje z klas pochodnych, które przys³aniaj¹ funkcje z klas bazowych.
+Program na pocz¹tku wyœwietla funkcjê z klasy bazowej, nastêpnie funkcjê z klasy pochodnej, a na koñcu z klasy bazowej.
+
+b)
+Gdy klasa bazowa posiada virtual a klasa pochodna overrid, to klasa pochodna przys³ania klasê bazow¹.
+Program na pocz¹tku wyœwietla funkcjê z klasy bazowej, nastêpnie klase pochodn¹ i na koñcu równie¿ funkcjê z klasy pochodnej. 
+
+C)
+Gdy w klasa bazowa posiada deklaracjê final oraz virtual, a klasa pochodna nie posiada ¿adnej deklaracji wystêpujê b³¹d kompilacji poniewa¿ w C# nie wystepuje metoda final, która zabezpiecza prze dzieciczeniem.
+
+zad2
+Przy stosowaniu klas i metod generycznych mo¿emy ³atwiej modyfikowaæ kody np w przypadku wyst¹pienia b³êdu w szablonie funkcji.
+Class<T> jest to klasa generyczna public void wypisz<T>(ref T a, ref T b) metoda generyczna, która wypisuje dane na konsole.
+<T> - jest to wype³niacz
+Program wypisuje dane ró¿nego typu. 

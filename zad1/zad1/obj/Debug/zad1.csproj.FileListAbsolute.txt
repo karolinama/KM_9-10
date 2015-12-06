@@ -1,0 +1,2 @@
+c:\users\karolina\documents\visual studio 2015\Projects\zad1\zad1\bin\Debug\zad1.exe.config
+c:\users\karolina\documents\visual studio 2015\Projects\zad1\zad1\obj\Debug\zad1.csprojResolveAssemblyReference.cache
